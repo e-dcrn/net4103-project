@@ -1,0 +1,10 @@
+/*.pdf
+*.zip
+fb100/
+/*.png
+.venv/
+env/
+answers/*.aux
+answers/*.log
+answers/*.out
+__pycache__/

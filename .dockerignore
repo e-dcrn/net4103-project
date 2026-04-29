@@ -1,0 +1,8 @@
+env/
+.venv/
+*.png
+*.zip
+__pycache__/
+*.pdf
+answers/
+.git/
